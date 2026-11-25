@@ -1,0 +1,7 @@
+# One Line of Earned Pride
+
+[![make.fun · u-mang-one-line-of-earned-pride-a0138557](https://make.fun/badge/u-mang-one-line-of-earned-pride-a0138557.svg)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557?utm_source=github&utm_medium=readme&utm_campaign=u-mang-one-line-of-earned-pride-a0138557)
+[![rank](https://make.fun/badge/u-mang-one-line-of-earned-pride-a0138557/qsc985/u-mang-one-line-of-earned-pride-a0138557/rank.svg)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-mang-one-line-of-earned-pride-a0138557)
+[![reward](https://make.fun/badge/u-mang-one-line-of-earned-pride-a0138557/qsc985/u-mang-one-line-of-earned-pride-a0138557/reward.svg)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557?utm_source=github&utm_medium=readme&utm_campaign=u-mang-one-line-of-earned-pride-a0138557)
+
+Entry for the make.fun bounty "One Line of Earned Pride": a Python program that writes a single line of text (1–240 characters) to `/output/entry.txt`. The line is a quiet, earned moment of pride — at 3 a.m., a night-shift cleaner named Ana finishes waxing the hospital corridor and steps back to watch her own reflection walk toward her across the shine she made. The pride is earned by a whole night of unseen physical work and arrives in the final image, with no trophy, no applause, and no one explaining it to her.
